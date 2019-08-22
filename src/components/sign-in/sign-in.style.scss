@@ -1,0 +1,11 @@
+.sign-in{
+    height: 100%r;
+    width: 30vw;
+    display: flex;
+    flex-direction: column;
+    .sign-in-button-group{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+    }
+}

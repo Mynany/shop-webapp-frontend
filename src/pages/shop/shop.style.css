@@ -1,0 +1,4 @@
+.PreviewCollection {
+  display: flex;
+  flex-direction: column;
+}
